@@ -60,8 +60,8 @@
 <li>Automation of processes throughAirflow
 </ul>
 
-### :book: Мои проекты:
-За время обучения на курсе "Аналитик данных" и проектную деятельность мной выполнено около 25 проектов. Здесь собрал наиболее интересные:
+### :book: My projects
+There are a pet-project and work task completed by me.
 |Projetcs name| Projetcs description| Stage|
 |----------------|-----------------|-----|
 |[Tasks in 3 level easy, medium, hard](https://github.com/artur2525/karpov-projects.git)|Tasks and popular problems solved by me during my career|In progress|
