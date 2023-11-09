@@ -14,9 +14,9 @@
  Hello, I'm Artur
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ml+Engineer;Data+Science)](https://git.io/typing-svg)
 </div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ml+Engineer;Data+Science)](https://git.io/typing-svg)
+    
 ### :man_technologist: Обо мне:
   I work as a ml engimeer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with specialized education.
 - :telescope: At the university, I gained considerable knowledge in the field of mathematical analysis and statistics with an average score of 4.4. The graduation paper was on the topic "prediction of well productivity".
@@ -51,7 +51,7 @@
 </div>
 
 ### :metal: Умею:
-<ul>Supervised (classical, nlp, cv alg) and unsupervised(clustering) learning
+<li>Supervised (classical, nlp, cv alg) and unsupervised(clustering) learning
 <li>Work with Llms (Llms agents)
 <li>SQL: nested queries, window functions, case constructs
 <li>A/B tests and bootstrap, analysis using python
