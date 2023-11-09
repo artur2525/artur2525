@@ -14,7 +14,7 @@
  Hello, I'm Artur
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ml+Engineer)](https://git.io/typing-svg)]
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ml+Engineer;Data+Science)](https://git.io/typing-svg)
 </div>
 
 ### :man_technologist: Обо мне:
@@ -25,7 +25,7 @@
 
 - :zap: In my free time I play in an amateur team at the city level (basketball), I travel. I have been leading all my life and projects in Notion.
 
-- :mailbox:How to contact me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/DimDolino)
+- :mailbox:How to contact me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Artismirnov)
 
 ---
 
