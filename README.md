@@ -20,10 +20,6 @@
 </div>
 
     
-
-
-
-    
 ### :man_technologist: Обо мне:
   I work as a ml engimeer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with specialized education.
 - :telescope: At the university, I gained considerable knowledge in the field of mathematical analysis and statistics with an average score of 4.4. The graduation paper was on the topic "prediction of well productivity".
