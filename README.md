@@ -15,7 +15,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ml+Engineer;Data+Science)](https://git.io/typing-svg)
+
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ml+Engineer;Data+Science)](https://git.io/typing-svg)
+
+
     
 ### :man_technologist: Обо мне:
   I work as a ml engimeer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with specialized education.
@@ -29,7 +33,7 @@
 
 ---
 
-### :hammer_and_wrench: Языки и инструменты :
+### :hammer_and_wrench: Tools :
 <div>
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
@@ -50,7 +54,7 @@
   
 </div>
 
-### :metal: Умею:
+### :metal: Learned:
 <li>Supervised (classical, nlp, cv alg) and unsupervised(clustering) learning
 <li>Work with Llms (Llms agents)
 <li>SQL: nested queries, window functions, case constructs
