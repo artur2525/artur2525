@@ -67,8 +67,11 @@
 There are a pet-project and work task completed by me.
 |Projetcs name| Projetcs description| Stage|
 |----------------|-----------------|-----|
-|[Tasks in 3 level easy, medium, hard](https://github.com/artur2525/karpov-projects.git)|Tasks and popular problems solved by me during my career|In progress|
-|[Parse and Analysis of cars estate](https://github.com/artur2525/Parse-and-analys)|My project is to detect price drawdowns on the car market in Russia. There was the use:docker, grafana, selenium, postgresql |Finished|
+|[Tasks in 3 level easy, medium, hard](https://github.com/artur2525/karpov-projects.git)|Tasks and popular problems solved by me during my career|**In progress**|
+|[Parse and Analysis of cars estate](https://github.com/artur2525/Parse-and-analys)|My project is to detect price drawdowns on the car market in Russia. There was the use:docker, grafana, selenium, postgresql |**Finished**|
+|[Testing bot]([https://github.com/DimDolino/E-learning_project](https://github.com/artur2525/llm_tests_bot/))|The bot that gives generates tests from a database of questions on selected industries. Answers and recommendations are checked by Llm. It is planned to implement a web version.|**In progress**|
+|Background for music|A service that creates a simple video for music by analyzing frequencies.|**Not started**|
+|[My django resume](https://github.com/artur2525/django-resume)|Few years ago i complete my resume with Django|**Finished**|
 
 ### :fire: My Stats :
   
@@ -82,7 +85,6 @@ There are a pet-project and work task completed by me.
 |[Анализ e-learning продукта](https://github.com/DimDolino/E-learning_project)|Формирование файлов с данными, предобработка данных, формирование рейтингов и антирейтигов курсов, анализ успеваемости студентов.|**Pandas** **Numpy** **Requests**|
 |[Исследуем набор карт Magic The Gathering](https://github.com/DimDolino/Magic_the_Gathering)|Обрабатываем данные, формируем графики для ответа на вопросы о составе набора для выпуска нового дополнения к игре|**Pandas** **Numpy** **Ast**|
 |Создаем Дашборд для визуализации ключевых процессов в [Tableau](https://public.tableau.com/app/profile/dmitriy7276/viz/KarpovDashboardPractice_16519275094660/SalesMonthlyOverview) и [Yandex Datalens](https://datalens.yandex.ru/syjtr3o11ppwi-profit-overview)|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau** **Yandex Datalens**|
-**DimDolino/DimDolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
