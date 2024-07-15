@@ -71,7 +71,7 @@ There are a pet-project and work task completed by me.
 |[Parse and Analysis of cars market](https://github.com/artur2525/Parse-and-analys)|My project is to detect price drawdowns on the car market in Russia. There was the use:docker, grafana, selenium, postgresql |**Finished**|
 |[Testing bot](https://github.com/artur2525/llm_tests_bot)|The bot that gives generates tests from a database of questions on selected industries. Answers and recommendations are checked by Llm. It is planned to implement a web version.|**In progress**|
 |Background for music|A service that creates a simple video for music by analyzing frequencies.|**Not started**|
-|[My django resume](https://github.com/artur2525/django-resume)|Few years ago i complete my resume with Django|**Finished**|
+
 
 ### :fire: My Stats :
   
